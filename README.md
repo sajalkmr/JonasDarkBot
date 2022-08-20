@@ -100,7 +100,7 @@ python3 bot.py
 ```
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)]([https://github.com/EvamariaTG/EvaMaria])
+* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://github.com/EvamariaTG/EvaMaria)
 
 
 ## Thanks to 
