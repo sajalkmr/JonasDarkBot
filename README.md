@@ -2,7 +2,7 @@
   <img src="assets/Jonas2.jpg" alt="Jonas Kahnwald" width="400" height="400">
 </p>
 <h1 align="center">
-  <b>Jonas Kahnwald</b>
+  <b>Jonas</b>
 </h1>
 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sajalkmr/JonasDarkBot)   
