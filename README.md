@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Jonas Kahnwald" width="500" height="500">
+  <img src="assets/jonas.jpg" alt="Jonas Kahnwald" width="500" height="500">
 </p>
 <h1 align="center">
   <b>Jonas Kahnwald</b>
