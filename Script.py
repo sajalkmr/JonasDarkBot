@@ -1,10 +1,10 @@
 class script(object):
-    START_TXT = """Hallo {},
-MY NAME IS <a href=https://t.me/{}>{}</a>, I CAN PROVIDE YOU MOVIES, JUST ADD ME TO YOUR GROUP AND SEE"""
-    HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    START_TXT = """𝐇𝐚𝐥𝐥𝐨 {},
+𝐈'𝐦 <a href=https://t.me/{}>{}</a>, 𝐀𝐧𝐝 𝐈 𝐜𝐚𝐧 𝐩𝐫𝐨𝐯𝐢𝐝𝐞 𝐲𝐨𝐮 𝐌𝐨𝐯𝐢𝐞𝐬, 𝐒𝐡𝐨𝐰𝐬 & 𝐀𝐧𝐢𝐦𝐞. 𝐉𝐮𝐬𝐭 𝐚𝐝𝐝 𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐚𝐬 𝐚𝐝𝐦𝐢𝐧 𝐚𝐧𝐝 𝐬𝐞𝐞 :)"""
+    HELP_TXT = """𝐇𝐞𝐲 {}
+𝐇𝐞𝐫𝐞 𝐢𝐬 𝐭𝐡𝐞 𝐡𝐞𝐥𝐩 𝐟𝐨𝐫 𝐦𝐲 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/sajalkmr>Team Eva Maria</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/sajalkmr>Sajal</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -15,7 +15,7 @@ MY NAME IS <a href=https://t.me/{}>{}</a>, I CAN PROVIDE YOU MOVIES, JUST ADD ME
 - Source - https://github.com/sajalkmr/JonasDarkBot 
 
 <b>DEVS:</b>
-- <a href=https://t.me/sajalkmr>Team Eva Maria</a>"""
+- <a href=https://t.me/sajalkmr>Sajal</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
