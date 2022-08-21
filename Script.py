@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """𝐇𝐚𝐥𝐥𝐨 {},
-𝐈'𝐦 <a href=https://t.me/{}>{}</a>, 𝐀𝐧𝐝 𝐈 𝐜𝐚𝐧 𝐩𝐫𝐨𝐯𝐢𝐝𝐞 𝐲𝐨𝐮 𝐌𝐨𝐯𝐢𝐞𝐬, 𝐒𝐡𝐨𝐰𝐬 & 𝐀𝐧𝐢𝐦𝐞. 𝐉𝐮𝐬𝐭 𝐚𝐝𝐝 𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐚𝐬 𝐚𝐝𝐦𝐢𝐧 𝐚𝐧𝐝 𝐬𝐞𝐞 :)"""
+𝐈'𝐦 <a href=https://t.me/{}>{}</a>, a𝐧𝐝 𝐈 𝐜𝐚𝐧 𝐩𝐫𝐨𝐯𝐢𝐝𝐞 𝐲𝐨𝐮 𝐌𝐨𝐯𝐢𝐞𝐬, 𝐒𝐡𝐨𝐰𝐬 & 𝐀𝐧𝐢𝐦𝐞. 𝐉𝐮𝐬𝐭 𝐚𝐝𝐝 𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐚𝐬 𝐚𝐝𝐦𝐢𝐧 𝐚𝐧𝐝 𝐬𝐞𝐞 :)"""
     HELP_TXT = """𝐇𝐞𝐲 {}
 𝐇𝐞𝐫𝐞 𝐢𝐬 𝐭𝐡𝐞 𝐡𝐞𝐥𝐩 𝐟𝐨𝐫 𝐦𝐲 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
@@ -12,10 +12,10 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - This is an open source project. 
-- Source - https://github.com/sajalkmr/JonasDarkBot 
+- Source : <a href=https://github.com/sajalkmr/JonasDarkBot>GitHub</a>
 
 <b>DEVS:</b>
-- <a href=https://t.me/sajalkmr>Sajal</a>"""
+- Sajal : <a href=https://github.com/sajalkmr>GitHub</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Jonas will respond whenever a keyword is found the message
