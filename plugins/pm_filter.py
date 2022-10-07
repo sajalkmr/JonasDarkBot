@@ -364,7 +364,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     caption=f_caption,
                     protect_content=True if ident == "filep" else False 
                 )
-                await query.answer('Check your messages, I have sent files in your PM.', show_alert=True)
+                await query.answer('Check your messages, I have sent files in your PM.')
+                
         except UserIsBlocked:
             await query.answer('Unblock the bot mahn !', show_alert=True)
         except PeerIdInvalid:
