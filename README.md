@@ -24,6 +24,7 @@
 - [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
 - [x] Spelling Check Feature
 - [x] File Store
+- [x] Delete channel to delete files from database in bulk.
 ## Variables
 
 Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
