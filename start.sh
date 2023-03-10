@@ -1,12 +1,22 @@
-if [ -z $UPSTREAM_REPO ]
-then
-  echo "Cloning main Repository"
-  git clone https://github.com/EvamariaTG/EvaMaria.git /EvaMaria
+#!/bin/bash
+
+set -e
+
+if [ -z "$UPSTREAM_REPO" ]; then
+  echo "Cloning main repository"
+  git clone https://github.com/sajalkmr/JonasDarkBot.git /JonasDarkBot
 else
-  echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /EvaMaria
+  echo "Cloning custom repository from $UPSTREAM_REPO"
+  git clone "$UPSTREAM_REPO" /JonasDarkBot
 fi
-cd /EvaMaria
-pip3 install -U -r requirements.txt
-echo "Starting Bot...."
+
+cd /JonasDarkBot
+
+if [ -f "requirements.txt" ]; then
+  pip3 install -U -r requirements.txt
+else
+  echo "No requirements file found"
+fi
+
+echo "Starting bot..."
 python3 bot.py
